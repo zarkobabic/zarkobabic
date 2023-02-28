@@ -7,4 +7,4 @@ As a fourth year student of Computer Engineering and Information Theory, I am hi
 
 [![Žarko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zarkobabic&show_icons=true&border_radius=10&bg_color=45,ffffff,A0A2A3,6AADC7&title_color=08688D&icon_color=767778&theme=default#gh-light-mode-only)](https://github.com/zarkobabic/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
