@@ -8,7 +8,7 @@ As a fourth year student of Computer Engineering and Information Theory, I am hi
 
 
 <a href="https://github.com/zarkobabic/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&theme=codeSTACKr#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&theme=codeSTACKr&langs_count=6#gh-dark-mode-only" />
 </a>
 
 
