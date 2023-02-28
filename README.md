@@ -21,4 +21,6 @@ As a fourth year student of Computer Engineering and Information Theory, I am hi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&border_radius=10&bg_color=45,ffffff,A0A2A3,6AADC7&title_color=08688D&icon_color=767778&theme=default&langs_count=8#gh-light-mode-only" />
 </a>
 
-<img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<br />
+<img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
