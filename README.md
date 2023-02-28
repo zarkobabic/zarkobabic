@@ -10,6 +10,7 @@ As a fourth year student of Computer Engineering and Information Theory, I am hi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarkobabic&show_icons=true&border_radius=10&bg_color=45,ffffff,A0A2A3,6AADC7&title_color=08688D&icon_color=767778&theme=default#gh-light-mode-only" />
 </a>
 
+<div style="background-color:red;">
 <a href="https://github.com/zarkobabic/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&theme=codeSTACKr#gh-dark-mode-only" />
 </a>
@@ -17,3 +18,4 @@ As a fourth year student of Computer Engineering and Information Theory, I am hi
 <a href="https://github.com/zarkobabic/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&border_radius=10&bg_color=45,ffffff,A0A2A3,6AADC7&title_color=08688D&icon_color=767778&theme=default#gh-light-mode-only" />
 </a>
+    </div>
