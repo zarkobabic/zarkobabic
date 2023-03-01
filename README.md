@@ -1,6 +1,6 @@
 ### Hi there, I'm Žarko! 👋
 
-![banner1](https://user-images.githubusercontent.com/92127059/222175638-8cd1e709-f3bc-415e-8f4c-9cddd32edcb5.png)
+![banner1](https://user-images.githubusercontent.com/92127059/222175638-8cd1e709-f3bc-415e-8f4c-9cddd32edcb5.png#gh-dark-mode-only)
 
 
 
