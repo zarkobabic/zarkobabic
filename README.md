@@ -3,6 +3,8 @@
 ![banner1](https://user-images.githubusercontent.com/92127059/222175638-8cd1e709-f3bc-415e-8f4c-9cddd32edcb5.png#gh-dark-mode-only)
 ![banner3 - Copy](https://user-images.githubusercontent.com/92127059/222263752-dd79fbe0-c1b2-4245-b22c-926b3fce1f0a.png#gh-light-mode-only)
 
+![banner1_-_Copy-removebg-preview (1)](https://user-images.githubusercontent.com/92127059/222282973-b9b5ab50-07e9-42ad-8696-ad668ed7264c.png)
+
 
 
 As a fourth year student of Computer Engineering and Information Theory, I am highly motivated and ready to take on new and exciting experiences and discoveries related to software and web application development through project participation and working in teams. I am passionate about these fields and eager to develop my skills further and contribute my knowledge to the projects I work on!
