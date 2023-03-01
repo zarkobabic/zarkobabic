@@ -21,6 +21,10 @@ As a fourth year student of Computer Engineering and Information Theory, I am hi
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&border_radius=10&bg_color=45,ffffff,A0A2A3,6AADC7&title_color=08688D&icon_color=767778&theme=default&langs_count=8#gh-light-mode-only" />
 </a>
 <br />
+<h3>Tech stack</h3>
+
+
+
 <h4>Advanced: </h4>
   <div style="display:inline-block;">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
