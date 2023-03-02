@@ -2,9 +2,7 @@
 
 
 ![the odd one light](https://user-images.githubusercontent.com/92127059/222303256-622d2ce8-c0aa-41ea-b7ed-f93ccf2ef8eb.png#gh-light-mode-only)
-![output-onlinegiftools (2)](https://user-images.githubusercontent.com/92127059/222320011-fd92e524-c1b9-47ed-b0a9-39cb1d637c39.gif#gh-dark-mode-only)
-
-![output-onlinegiftools (4)](https://user-images.githubusercontent.com/92127059/222321774-4bc796dc-7b5f-4a65-a7ed-a1ea34dfc171.gif)
+![output-onlinegiftools (4)](https://user-images.githubusercontent.com/92127059/222321774-4bc796dc-7b5f-4a65-a7ed-a1ea34dfc171.gif#gh-dark-mode-only)
 
 As a fourth year student of Computer Engineering and Information Theory, I am highly motivated and ready to take on new and exciting experiences and discoveries related to software and web application development through project participation and working in teams. I am passionate about these fields and eager to develop my skills further and contribute my knowledge to the projects I work on!
 
