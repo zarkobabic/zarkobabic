@@ -2,6 +2,7 @@
 
 ![banner3 - Copy](https://user-images.githubusercontent.com/92127059/222263752-dd79fbe0-c1b2-4245-b22c-926b3fce1f0a.png#gh-light-mode-only)
 ![banner5](https://user-images.githubusercontent.com/92127059/222283563-f712ab13-6933-4ae2-8622-08a1dbfdc052.png#gh-dark-mode-only)
+![the odd one light](https://user-images.githubusercontent.com/92127059/222303256-622d2ce8-c0aa-41ea-b7ed-f93ccf2ef8eb.png)
 
 
 
