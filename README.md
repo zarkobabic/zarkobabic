@@ -8,12 +8,12 @@
 As a fourth year student of Computer Engineering and Information Theory, I am highly motivated and ready to take on new and exciting experiences and discoveries related to software and web application development through project participation and working in teams. I am passionate about these fields and eager to develop my skills further and contribute my knowledge to the projects I work on!
 
 <a href="https://github.com/zarkobabic/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarkobabic&show_icons=true&theme=codeSTACKr#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarkobabic&show_icons=true&theme=codeSTACKr&bg_color=00000000#gh-dark-mode-only" />
 </a>
 
 
 <a href="https://github.com/zarkobabic/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&theme=codeSTACKr&langs_count=6#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkobabic&layout=compact&theme=codeSTACKr&bg_color=00000000&langs_count=6#gh-dark-mode-only" />
 </a>
 
 
