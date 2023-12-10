@@ -4,7 +4,7 @@
 ![the odd one light](https://user-images.githubusercontent.com/92127059/222303256-622d2ce8-c0aa-41ea-b7ed-f93ccf2ef8eb.png#gh-light-mode-only)
 ![output-onlinegiftools (4)](https://user-images.githubusercontent.com/92127059/222321774-4bc796dc-7b5f-4a65-a7ed-a1ea34dfc171.gif#gh-dark-mode-only)
 
-As a fourth year student of Computer Engineering and Information Theory, I am highly motivated and ready to take on new and exciting experiences and discoveries related to software and web application development through project participation and working in teams. I am passionate about these fields and eager to develop my skills further and contribute my knowledge to the projects I work on!
+Enthusiastic software engineering student pursuing a Master's degree in the same field with a keen interest in collaborating with creative teams to drive innovation. Proven ability to contribute fresh ideas and enhance existing technologies. Skilled at finding creative solutions for unique problems while ensuring optimal results.
 
 <a href="https://github.com/zarkobabic/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarkobabic&show_icons=true&theme=codeSTACKr&hide_border=true&bg_color=00000000#gh-dark-mode-only" />
